@@ -4,7 +4,7 @@
 
 ## Overview
 This project aims to monitor social media platforms to detect disaster-related content in real-time. By analyzing social media posts, the system identifies potential disaster events and attempts to detect the location of such events, providing timely alerts and actionable insights.
-
+![Social media Monitoring](./Presentation.png)
 ## Features
 - **Real-time Disaster Monitoring:** Continuously analyzes social media feeds to detect potential disaster events.
 - **Location Detection:** Identifies the geographic location associated with disaster-related content.
